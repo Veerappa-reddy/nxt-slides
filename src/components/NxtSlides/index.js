@@ -176,3 +176,7 @@ class NxtSlides extends Component {
 }
 
 export default NxtSlides
+
+// start : ccbp start RJSCPFQLEO
+// submit: ccbp submit RJSCPFQLEO
+// project : ccbp publish RJSCPFQLEO domain_name.ccbp.tech
