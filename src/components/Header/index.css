@@ -1,0 +1,10 @@
+.header-container {
+  background-color: #dbeafe;
+  height: 100px;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+}
+.nxt-slides-logo {
+  width: 70px;
+}
