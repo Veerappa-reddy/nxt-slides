@@ -1,10 +1,17 @@
 .header-container {
   background-color: #dbeafe;
-  height: 100px;
-  padding: 20px;
+  height: 12vh;
   display: flex;
   align-items: center;
+  padding: 10px 0 10px 15px;
+  font-family: 'Bree Serif';
 }
-.nxt-slides-logo {
-  width: 70px;
+
+.logo {
+  width: 60px;
+  margin-right: 15px;
+}
+
+.title {
+  font-size: 28px;
 }
